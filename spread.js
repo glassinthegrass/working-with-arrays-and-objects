@@ -11,7 +11,7 @@
 /* Use the spread operator to create a copy of the product object below.  Name the copy "productCopy" */
 
 let product = {
-  id: 54, 
+  id: 54,
   name: 'santa hat',
   price: 6,
   imageUrl: 'https://i.ebayimg.com/images/g/9T4AAOSwbmdZf2jN/s-l640.jpg'

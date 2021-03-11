@@ -51,7 +51,17 @@ var employees = [
 */
 
 //Code Here
-
+// function employeeUpdater() {
+//   let newarr = []
+//   for (let i = 0; i < employees.length; i++) {
+//     for (let j = 0; j < employees[i].length; j++) {
+//       if (employees[i][j] === 'Theo') {
+//         newarr= employees.map()
+//         newarr.splice(i,1)
+//       }
+//     }
+//   }
+// }
 
 
 ////////// PROBLEM 2 //////////
